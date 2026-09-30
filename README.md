@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Resend SDK
 
 Resend client, generated from the OpenAPI spec.
@@ -262,3 +263,6 @@ Do not open public issues for suspected vulnerabilities.
 ---
 
 Generated from the Resend OpenAPI spec by [@voxgig/sdkgen](https://github.com/voxgig/sdkgen).
+=======
+# resend-sdk
+>>>>>>> 0ac71637dea8c591c7c6eb6b0c042775d3cbdd53
